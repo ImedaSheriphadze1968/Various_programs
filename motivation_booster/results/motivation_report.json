@@ -1,0 +1,13 @@
+{
+    "user_data": {
+        "work_satisfaction": 1.0,
+        "goal_clarity": 1.0,
+        "recent_progress": 0.0,
+        "stress_level": 1.0,
+        "time_management": 1.0
+    },
+    "recommendations": [
+        "შენ გაქვს მაღალი მოტივაცია! შეინარჩუნე ეს ტემპი.",
+        "დაგეგმე ახალი მიზნები და შეინარჩუნე პროგრესი."
+    ]
+}
