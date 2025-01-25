@@ -9,4 +9,4 @@ Features:
 4. Innovative approaches and tools
 
 Goal:
-To share knowledge, experience, and ideas that will help developers and engineers in their projects.
+To share my knowledge, experience, and ideas that will help developers and engineers in their projects.
